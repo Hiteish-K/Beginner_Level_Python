@@ -1,2 +1,8 @@
 # Beginner_Level_Python
--Identifier
+- Identifier
+- String Concatenation
+- Type Casting 
+- TYPE OF PRINTS
+- Assigment
+- Data Types
+- Slicing
